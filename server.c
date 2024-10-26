@@ -3,7 +3,7 @@
 #include <string.h>
 #include <winsock2.h> 
 
-#define PORT 5050
+#define PORT 5051
 
 int main() {
     WSADATA wsa;
